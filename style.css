@@ -1,0 +1,91 @@
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    height: 135vh;
+    width: 100%;
+    background-color: #EBC49F;
+    position: relative;
+    display: flex;
+    box-sizing: border-box;
+}
+img{
+    
+        height: 190px;
+        width: 250px;
+        border-radius: 200px;
+
+}
+.child{
+    height: 135vh;
+    width: 251px;
+   background-color:  #D37676;
+    margin-left: 0px;
+    margin-top: 0;
+    position: relative;
+}
+.p{
+    color: white;
+font-weight: 500;
+font-size: 30px;
+text-align: center;
+}
+.p2{
+    color: white;
+    text-align: center;
+    line-height: 50px;
+
+}
+.light{
+    color: #EADFB4;
+    text-align: center;
+}
+.aboutme{
+margin-left: 0px;
+width: 100%;
+text-align: center;
+background-color: #EBC49F;
+position: relative;
+font-weight:bolder;
+}
+
+.aa{
+background-color: #F1EF99;
+font-weight: bolder;
+font-size: 30px;
+}
+.hr{
+    background-color: #D37676;
+    height: 10px;
+}
+.hr2{
+    background-color: #D37676;
+    height: 10px;
+}
+.Headings{
+    text-align: left;
+    font-weight: bold;
+    font-size: 25px;
+   letter-spacing: 4px;
+}
+.Headings,ul ,li{
+    text-align: left;
+}
+
+.border1{
+    border: 1rem solid;
+    font-weight: bold;
+}
+.border{
+    background-color: black;
+    color: white;
+}
+.center{
+    left: 100px;
+    position: relative;
+}
+
+.hh{
+    text-align: left;}
